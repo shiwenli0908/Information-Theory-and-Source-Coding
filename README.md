@@ -15,7 +15,7 @@ This practical work will analyze the effect of the three blocks forming an image
 
 ## TP3 Learned data compression
 
-Lossy compression involves a trade-off between throughput and distortion. This lab implements a model similar to an autoencoder to compress images from the MNIST dataset. 
+Lossy compression involves a trade-off between throughput and distortion. This TP implements a model similar to an autoencoder to compress images from the MNIST dataset. 
 
 The method is based on the paper [End-to-end Optimized Image Compression](https://arxiv.org/abs/1611.01704).
 
